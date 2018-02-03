@@ -1,0 +1,2 @@
+# testGo
+Premiers tests Go
